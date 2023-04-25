@@ -37,12 +37,14 @@
   }
 }
 
-.light {
-  background-color: rgb(224, 200, 170);
-  color: #1d232f;
+.bg-lightNavbar {
+  background-color: rgb(74, 107, 136);
 }
 
-.dark {
-  background-color: rgb(15, 15, 58);
-  color: rgb(181, 228, 228);
+/* .text-navbar {
+  color: white !important;
+} */
+
+#basic-navbar-nav .me-auto .text-navbar {
+  color: rgb(202, 202, 202);
 }
