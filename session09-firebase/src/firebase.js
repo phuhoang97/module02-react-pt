@@ -7,6 +7,8 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+// Phần này sẽ đổi thành firebaseConfig của mọi người nhé !!!!
 const firebaseConfig = {
   apiKey: "AIzaSyBxXb9FbqQmhFdiXAgw2XzUgKzGCP2xiew",
   authDomain: "upload-img-ft02-5f91e.firebaseapp.com",
