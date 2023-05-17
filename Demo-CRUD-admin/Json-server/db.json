@@ -13,6 +13,12 @@
       "email": "thanh@gmail.com"
     },
     {
+      "id": 3,
+      "username": "Mai Lê",
+      "phone": "089645325",
+      "email": "mai@gmail.com"
+    },
+    {
       "id": 5,
       "username": "Mạnh Hùng",
       "phone": "0324565655",
@@ -25,9 +31,9 @@
       "email": "vu@gmail.com"
     },
     {
-      "username": "Đông",
-      "phone": "0354885455",
-      "email": "duy@gmail.com",
+      "username": "Hoàng",
+      "phone": "012345431",
+      "email": "hoang@gmail.com",
       "id": 7
     }
   ]
